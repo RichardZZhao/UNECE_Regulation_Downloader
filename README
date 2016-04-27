@@ -1,0 +1,8 @@
+This project is for download vehicle regulations from UN ECE web site
+http://www.unece.org/trans/main/wp29/wp29regs.html
+
+1,only download pdf file
+#2,you can choose UN office language Engilish, France or Russian. now only EN
+3,after down loawn the regulations will be put in a folder"regulations'
+  and the regulation of one number will be put in one subdir
+
